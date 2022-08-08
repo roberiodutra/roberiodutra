@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberiodutra/)
 [![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/roberiodutra/)
 
-![Robério's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberiodutra&show_icons=true&border_color=181e40&theme=dark)
+![Robério's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberiodutra&show_icons=true&icon_color=2f55a1&border_color=181e40&theme=dark)
 
 ### Technologies I will study forever
 <div style="display: inline_block">
