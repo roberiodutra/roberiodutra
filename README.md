@@ -1,9 +1,11 @@
 ## 👋 Hi, I’m Robério Dutra
 <p>"A baiano Actor passionate about technology"</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberiodutra/)
-[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/roberiodutra/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.roberio@gmail.com)
+<div style="display: inline">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" href="https://www.linkedin.com/in/roberiodutra/" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" href="https://dev.to/roberiodutra/" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" href="mailto:dev.roberio@gmail.com" />
+ </div><br/>
 
 ![Robério's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberiodutra&show_icons=true&icon_color=2f55a1&border_color=181e40&theme=dark)
 
