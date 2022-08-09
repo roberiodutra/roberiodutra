@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Robério Dutra
-<p>"A baiano actor passionate about technology"</p>
+<p>"A actor passionate about technology"</p>
 
 <div style="display: inline">
   <a href="https://www.linkedin.com/in/roberiodutra/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"></a>
