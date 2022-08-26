@@ -6,8 +6,10 @@
 <div style="display: inline">
   <a href="https://www.linkedin.com/in/roberiodutra/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"></a>
   <a href="https://roberio.dev"> <img src="https://img.shields.io/badge/Portfolio-1f425f.svg" alt="portfolio" height="20"></a>
-  <a href="mailto:dev.roberio@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="20"></a><p>dev.roberio@gmail.com</p>
+  <a href="mailto:dev.roberio@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="20"></a>
  </div><br/>
+
+ ###### Contact: dev.roberio@gmail.com
 
 ![Robério's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberiodutra&show_icons=true&icon_color=2f55a1&border_color=181e40&theme=dark)
 
