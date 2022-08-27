@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Robério Dutra
 <p>"A actor passionate about technology"</p>
 
-###### Throughout my journey, I have realized that I have: Ease of understanding applications and creativity in quick solutions to problems, in addition to great collaboration with others.
+###### Throughout my journey, I have realized that I have ease of understanding applications and creativity in quick solutions to problems, in addition to great collaboration with others.
 
 <div style="display: inline">
   <a href="https://www.linkedin.com/in/roberiodutra/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"></a>
