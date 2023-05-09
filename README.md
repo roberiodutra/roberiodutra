@@ -61,7 +61,7 @@
     <td valign="top" align="center">
       <h3 align="center">TS-React-APP</h3>
       <img
-        src="https://skills.thijs.gg/icons?i=js,ts,react,git,sass,jest,vite,nodejs"
+        src="https://skills.thijs.gg/icons?i=js,ts,react,git,sass,jest,vite,nodejs,mongodb"
         alt="skills"
         height="30"
       />
