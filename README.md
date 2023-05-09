@@ -55,7 +55,7 @@
         height="30"
       />
       <a href="https://github.com/roberiodutra/invoice-node-app"
-        ><img width="446" src="https://github.com/roberiodutra/invoice-node-app/blob/dev-roberio-dutra/cashforce.gif?raw=true" alt="Invoice Node App Preview"
+        ><img width="300" src="https://github.com/roberiodutra/invoice-node-app/blob/dev-roberio-dutra/cashforce.gif?raw=true" alt="Invoice Node App Preview"
       /></a>
     </td>
     <td valign="top" align="center">
