@@ -10,8 +10,6 @@
 
  ###### Contact: dev.roberio@gmail.com
 
-![Robério's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberiodutra&show_icons=true&icon_color=2f55a1&border_color=181e40&theme=dark)
-
 ### Technologies I will study forever
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="20" />
@@ -21,8 +19,6 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"/>
-  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="20"/>
-  <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="20"/>
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20"/>
 </div><br/>
 
@@ -35,3 +31,43 @@
   <img align="center" alt="sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" />
   <img align="center" alt="express" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 </div><br/>
+
+### Projects
+
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <h3 align="center">Genz Cash App</h3>
+      <img
+        src="https://skills.thijs.gg/icons?i=js,ts,nodejs,postgres,react,redux,git,sass,jest,vite"
+        alt="skills"
+        height="30"
+      />
+      <a href="https://github.com/roberiodutra/genz-cash-app"
+        ><img width="300" src="https://github.com/roberiodutra/genz-cash-app/blob/main/genz_cash.jpg?raw=true" alt="Genz Cash App Preview"
+      /></a>
+    </td>
+    <td valign="top" align="center">
+      <h3 align="center">Invoice Node App</h3>
+      <img
+        src="https://skills.thijs.gg/icons?i=js,ts,nodejs,vuejs,mysql"
+        alt="skills"
+        height="30"
+      />
+      <a href="https://github.com/roberiodutra/invoice-node-app"
+        ><img width="446" src="https://github.com/roberiodutra/invoice-node-app/blob/dev-roberio-dutra/cashforce.gif?raw=true" alt="Invoice Node App Preview"
+      /></a>
+    </td>
+    <td valign="top" align="center">
+      <h3 align="center">TS-React-APP</h3>
+      <img
+        src="https://skills.thijs.gg/icons?i=js,ts,react,git,sass,jest,vite,nodejs"
+        alt="skills"
+        height="30"
+      />
+      <a href="https://github.com/roberiodutra/ts-react-app"
+        ><img width="300" src="https://github.com/roberiodutra/ts-react-app/blob/main/src/assets/all-devices-black.png?raw=true" alt="TS-React-APP Preview"
+      /></a>
+    </td>
+  </tr>
+</table>
