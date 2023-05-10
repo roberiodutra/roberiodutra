@@ -39,7 +39,7 @@
     <td valign="top" align="center">
       <h3 align="center">Genz Cash App</h3>
       <img
-        src="https://skills.thijs.gg/icons?i=js,ts,nodejs,postgres,react,redux,git,sass,jest,vite"
+        src="https://skills.thijs.gg/icons?i=js,ts,nodejs,postgres,docker,react,redux,git,sass,jest,vite"
         alt="skills"
         height="30"
       />
